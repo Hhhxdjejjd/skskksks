@@ -42,3 +42,4 @@ jobs:
           haxelib install flixel-demos
           haxelib install flixel-templates
           haxelib run flixel
+          haxelib run flixel tpl -n "HelloWorld"
